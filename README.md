@@ -1,0 +1,2 @@
+# Computer-Vision-based-Audio-Signal-Analysis-for-Fault-Detection
+This project applies deep learning and computer vision to detect industrial machine faults using audio signals. Sound data is segmented and converted into visual features using STFT and MFCCs, then classified with a CNN. Data augmentation improves robustness, achieving 87% accuracy for reliable machine condition monitoring &amp; predictive maintenance.
